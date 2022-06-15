@@ -10,8 +10,8 @@ La aplicación se ha desarrollado con las siguientes tecnologías:
 
 ## Ejecutar la aplicación
 
-Para ejecutar la aplicación utilice el comando ```npm start```
+Para ejecutar la aplicación utilice el comando ```npm start```\
 Escriba [http://localhost:3000](http://localhost:3000) en la barra de búsqueda del navegador para ver el resultado.
 
-La página se recargará si hacemos ediciones en el código.
+La página se recargará si hacemos ediciones en el código.\
 También podrá observar la lista de errores en la consola.
